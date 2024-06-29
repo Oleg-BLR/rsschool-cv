@@ -1,12 +1,23 @@
 # *Oleg Deviatovski*
 ### Beginner Java Developer
 ***
-Contacts:
+## Contacts:
 * Novopolotsk, BELARUS
 * +375 29 8911237
 * olegwsandroid@gmail.com
 
 ***
+## Education:
+Polotsk State University, Civil and industrial engineering
+
+***
+## Languages:
+* Russian - Native
+* English - Intermediate
+* French - Intermediate
+
+***
+## Code example
 ```
 Java class to check Name Surname similarity to avoid duplicates of persons
 
